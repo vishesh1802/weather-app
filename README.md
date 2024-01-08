@@ -15,3 +15,8 @@ Backend
 Frontend
 1.Built the application using React Js
 2.Import all the necessary packages.The packages used in this project can be seen in package.json file
+
+
+Output snapshots
+
+
