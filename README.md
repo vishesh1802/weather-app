@@ -20,3 +20,16 @@ Frontend
 Output snapshots
 
 
+![Screenshot (188)](https://github.com/vishesh1802/weather-app/assets/96537033/c6e92497-996c-4d15-a51d-9a83a44302b1)
+
+
+Img 1: Home screen where we enter the location pincode to get the weather of that region
+
+![Screenshot (187)](https://github.com/vishesh1802/weather-app/assets/96537033/4e717fd5-2406-4220-993a-02ca2ea5b2ea)
+
+Img 2: We get to know the weather of the entered region showm in the previous screen
+
+![Screenshot (186)](https://github.com/vishesh1802/weather-app/assets/96537033/b1ffddfa-9025-4b07-b953-f804b9e349b5)
+
+Img 3: Error screen obtained if the entered region zipcode is incorrect
+
